@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\Migrations\\20240501211457_AddProducttDataTableOnDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShop.ProductAPI\\Migrations\\20240501211457_AddProducttDataTableOnDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|c:\\users\\erikc\\onedrive\\\u00E1rea de trabalho\\curso-dotnet\\geekshopping\\geekshop.productapi\\data\\valueobjects\\productvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|solutionrelative:geekshop.productapi\\data\\valueobjects\\productvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|c:\\users\\erikc\\onedrive\\\u00E1rea de trabalho\\curso-dotnet\\geekshopping\\geekshop.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|solutionrelative:geekshop.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|c:\\users\\erikc\\onedrive\\\u00E1rea de trabalho\\curso-dotnet\\geekshopping\\geekshop.productapi\\repostory\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|solutionrelative:geekshop.productapi\\repostory\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|c:\\users\\erikc\\onedrive\\\u00E1rea de trabalho\\curso-dotnet\\geekshopping\\geekshop.productapi\\geekshop.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|solutionrelative:geekshop.productapi\\geekshop.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB09E8C4-E5FF-41C7-86A8-F041F889A5D1}|GeekShop.Web\\GeekShop.Web.csproj|c:\\users\\erikc\\onedrive\\\u00E1rea de trabalho\\curso-dotnet\\geekshopping\\geekshop.web\\geekshop.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB09E8C4-E5FF-41C7-86A8-F041F889A5D1}|GeekShop.Web\\GeekShop.Web.csproj|solutionrelative:geekshop.web\\geekshop.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|c:\\users\\erikc\\onedrive\\\u00E1rea de trabalho\\curso-dotnet\\geekshopping\\geekshop.productapi\\migrations\\20240501211457_addproducttdatatableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|solutionrelative:geekshop.productapi\\migrations\\20240501211457_addproducttdatatableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|c:\\users\\erikc\\onedrive\\\u00E1rea de trabalho\\curso-dotnet\\geekshopping\\geekshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -17,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|c:\\users\\erikc\\onedrive\\\u00E1rea de trabalho\\curso-dotnet\\geekshopping\\geekshop.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|solutionrelative:geekshop.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|c:\\users\\erikc\\onedrive\\\u00E1rea de trabalho\\curso-dotnet\\geekshopping\\geekshop.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD2E139-84B3-44B3-8A07-D35F64061CEE}|GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj|solutionrelative:geekshop.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +51,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductVO.cs",
+              "DocumentMoniker": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
+              "RelativeDocumentMoniker": "GeekShop.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
+              "ToolTip": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
+              "RelativeToolTip": "GeekShop.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:52:12.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\Repostory\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "GeekShop.ProductAPI\\Repostory\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\Repostory\\IProductRepository.cs",
+              "RelativeToolTip": "GeekShop.ProductAPI\\Repostory\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:51:28.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeekShop.ProductAPI",
+              "DocumentMoniker": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj",
+              "RelativeDocumentMoniker": "GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj",
+              "ToolTip": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj",
+              "RelativeToolTip": "GeekShop.ProductAPI\\GeekShop.ProductAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-01T21:50:51.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeekShop.Web",
+              "DocumentMoniker": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.Web\\GeekShop.Web.csproj",
+              "RelativeDocumentMoniker": "GeekShop.Web\\GeekShop.Web.csproj",
+              "ToolTip": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.Web\\GeekShop.Web.csproj",
+              "RelativeToolTip": "GeekShop.Web\\GeekShop.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-01T21:50:41.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20240501211457_AddProducttDataTableOnDB.cs",
               "DocumentMoniker": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\Migrations\\20240501211457_AddProducttDataTableOnDB.cs",
               "RelativeDocumentMoniker": "GeekShop.ProductAPI\\Migrations\\20240501211457_AddProducttDataTableOnDB.cs",
               "ToolTip": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\Migrations\\20240501211457_AddProducttDataTableOnDB.cs",
               "RelativeToolTip": "GeekShop.ProductAPI\\Migrations\\20240501211457_AddProducttDataTableOnDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T21:14:57.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\appsettings.json",
               "RelativeDocumentMoniker": "GeekShop.ProductAPI\\appsettings.json",
@@ -55,12 +123,11 @@
               "RelativeToolTip": "GeekShop.ProductAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-01T21:14:44.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T21:14:44.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\Program.cs",
               "RelativeDocumentMoniker": "GeekShop.ProductAPI\\Program.cs",
@@ -68,12 +135,11 @@
               "RelativeToolTip": "GeekShop.ProductAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:14:36.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T21:14:36.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "MySQLContext.cs",
               "DocumentMoniker": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\Model\\Context\\MySQLContext.cs",
               "RelativeDocumentMoniker": "GeekShop.ProductAPI\\Model\\Context\\MySQLContext.cs",
@@ -81,18 +147,17 @@
               "RelativeToolTip": "GeekShop.ProductAPI\\Model\\Context\\MySQLContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:10:15.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T21:10:15.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\Model\\Product.cs",
               "RelativeDocumentMoniker": "GeekShop.ProductAPI\\Model\\Product.cs",
               "ToolTip": "C:\\Users\\erikc\\OneDrive\\\u00C1rea de Trabalho\\curso-dotnet\\GeekShopping\\GeekShop.ProductAPI\\Model\\Product.cs",
               "RelativeToolTip": "GeekShop.ProductAPI\\Model\\Product.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T21:06:19.974Z",
               "EditorCaption": ""
