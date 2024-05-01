@@ -1,5 +1,8 @@
 
+using AutoMapper;
+using GeekShop.ProductAPI.Config;
 using GeekShop.ProductAPI.Model.Context;
+using GeekShop.ProductAPI.Repostory;
 using Microsoft.EntityFrameworkCore;
 
 namespace GeekShop.ProductAPI
@@ -18,6 +21,17 @@ namespace GeekShop.ProductAPI
                 .UseMySql(
                     connection,
                     ServerVersion.AutoDetect(connection)));
+
+            // Registre os mapeamentos e crie um IMapper
+            IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
+
+            // Adicione o IMapper como serviço singleton
+            builder.Services.AddSingleton(mapper);
+
+            // Adicione o AutoMapper com os assemblies necessários
+            // builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+            builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
